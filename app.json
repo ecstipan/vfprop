@@ -1,0 +1,8 @@
+{
+    "name": "V.F. Properties App",
+    "description": "Share your freestyle topics to our video wall.",
+    "repository": "https://github.com/ecstipan/vfprop",
+    "logo": "http://afprop.herokuapp.com/static/logo.png",
+    "keywords": ["worcester", "apartments", "wpi", "clark", "student", "housing", "rent" ],
+    "addons": [ "memcachier" ]
+}
